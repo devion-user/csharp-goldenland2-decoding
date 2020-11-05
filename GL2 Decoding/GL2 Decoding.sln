@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDB Decoder", "SDB Decoder\SDB Decoder.csproj", "{52E3F70E-94C6-42F2-B98E-BE8472072295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL2 Decoding Library", "GL2 Decoding Library\GL2 Decoding Library.csproj", "{0C55C586-5A68-4E04-9974-1639CBD76C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSX Decoder", "CSX Decoder\CSX Decoder.csproj", "{728E154D-4A9E-48D0-A9D4-4204AD3B46A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E3F70E-94C6-42F2-B98E-BE8472072295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E3F70E-94C6-42F2-B98E-BE8472072295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E3F70E-94C6-42F2-B98E-BE8472072295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E3F70E-94C6-42F2-B98E-BE8472072295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C55C586-5A68-4E04-9974-1639CBD76C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C55C586-5A68-4E04-9974-1639CBD76C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C55C586-5A68-4E04-9974-1639CBD76C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C55C586-5A68-4E04-9974-1639CBD76C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728E154D-4A9E-48D0-A9D4-4204AD3B46A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728E154D-4A9E-48D0-A9D4-4204AD3B46A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728E154D-4A9E-48D0-A9D4-4204AD3B46A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728E154D-4A9E-48D0-A9D4-4204AD3B46A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
