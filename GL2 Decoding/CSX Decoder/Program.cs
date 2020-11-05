@@ -2,13 +2,12 @@
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
-using GL2DecodingLibrary;
 
 namespace CSX_Decoder
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Конвертер файлов: CSX to PNG");
             Console.WriteLine("Для конвертации перенести на значок файла");
@@ -65,6 +64,7 @@ namespace CSX_Decoder
                 break;
             }
         }
+        
         private static void Convert_CSX_TO_PNG(string path)
         {
             Console.Write(path + "..");

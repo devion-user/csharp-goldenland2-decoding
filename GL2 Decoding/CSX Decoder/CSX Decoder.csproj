@@ -6,8 +6,4 @@
         <RootNamespace>CSX_Decoder</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\GL2 Decoding Library\GL2 Decoding Library.csproj" />
-    </ItemGroup>
-
 </Project>
